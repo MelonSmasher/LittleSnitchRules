@@ -1,0 +1,54 @@
+{
+  "description" : "Web browser rules.",
+  "name" : "Web Browsers",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1509818909.883956,
+      "modificationDate" : 1539354675.5451012,
+      "owner" : "any",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1509938037.929039,
+      "modificationDate" : 1539354667.3092818,
+      "owner" : "any",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1539354827.4077449,
+      "modificationDate" : 1539354851.16605,
+      "owner" : "any",
+      "process" : "\/Applications\/Opera.app\/Contents\/MacOS\/Opera",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1535550967.284584,
+      "modificationDate" : 1539354635.207339,
+      "owner" : "any",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1539354075.0945439,
+      "modificationDate" : 1539354624.038609,
+      "owner" : "any",
+      "process" : "\/Applications\/TorBrowser.app\/Contents\/MacOS\/firefox",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1535551714.802753,
+      "modificationDate" : 1539354614.6031961,
+      "owner" : "any",
+      "process" : "\/Applications\/Vivaldi.app\/Contents\/MacOS\/Vivaldi",
+      "remote" : "any"
+    }
+  ]
+}
